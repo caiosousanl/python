@@ -1,2 +1,2 @@
 nome = input('Digite seu nome:')
-print('Slv meu broder {} dboas?'.format(nome))
+print('Eae meu broder {} tranquilo?'.format(nome))
